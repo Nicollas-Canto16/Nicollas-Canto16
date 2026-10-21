@@ -6,4 +6,6 @@ Computer Science student and aspiring Software Developer from Brazil.
 - 🌎 English: B2
 Technologies
 
-TypeScript React Next.js Node.js NestJS PostgreSQL Git
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,prisma,git,docker,python,mysql&perline=8" />
+</p>
